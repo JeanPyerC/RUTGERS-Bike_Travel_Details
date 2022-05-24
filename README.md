@@ -1,8 +1,16 @@
 # RUTGERS - Bike Travel Details
 
+
+
 ## Deliverable 1: Change Trip Duration to a Datetime Format
 
 &nbsp;&nbsp;&nbsp;&nbsp; Using Python and Pandas functions, I was able to to convert the "tripduration" column from an integer to a datetime datatype to get time in hours, minutes, and seconds. I was able to save the updated file within the reousrces folder to use for future assignments.
+
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic01.png)
+
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic02.png)
+
+
 
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
@@ -10,18 +18,21 @@
 I was able to create a few differnt graphs:
 
 1) The first graph listed below shows data for all users. This graph shows the length of time that bikes are checked out for all riders.
-
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic03.png)
 
 2) The second graph listed below shows data split up by genders. This graph shows the length of time that bikes are checked out for all riders.
-
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic04.png)
 
 3) The third graph listed below shows the number of bike trips by weekday for each hour of the day as a heatmap.
-
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic05.png)
 
 4) The fourth grpah listed below shows the number of bike trips by gender for each hour of each day of the week as a heatmap.
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic07.png)
+
+5) The final graph lsited below is a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.  
+![](https://github.com/JeanPyerC/RUTGERS-Bike_Travel_Details/blob/main/Challenge/Photos/Pic06.png)
 
 
-5) The final graph lsited below is a heatmap that shows the number of bike trips broken down by gender for each day of the week by each Usertype.
 
 
 ## Deliverable 3: Create a Story and Report for the Final Presentation
